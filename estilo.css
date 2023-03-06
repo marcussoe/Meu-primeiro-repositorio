@@ -1,0 +1,23 @@
+.boanoite{
+    color:green;
+}
+
+.interno {
+    color: black;
+    font-weight: 500;
+    font-family: monospace;
+    font-size:15px;
+}
+
+.externo{
+    color: brown;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+}   
+
+
+h1 {
+    font-size: 60px;
+
+}
